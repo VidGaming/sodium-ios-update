@@ -1,0 +1,18 @@
+{
+    "homepage": "https://www.tiktok.com/@moymc",
+    "promos": {
+        "1.21": "v0.1.1-beta-ios.1+mc1.21"
+    },
+    "versions": {
+        "v0.1.1-beta-ios.1+mc1.21": {
+            "version": "v0.1.1-beta-ios.1+mc1.21",
+            "files": [
+                {
+                    "url": "https://www.mediafire.com/file/y3nb53kby5yzuz1/sodium-ios-v0.1.1-beta-ios1-mc1.21.jar/file",
+                    "sha512": "REPLACE_WITH_HASH",
+                    "filename": "sodium-ios-v0.1.1-beta-ios1-mc1.21.jar"
+                }
+            ]
+        }
+    }
+}
